@@ -1,0 +1,23 @@
+{
+  "name": "amazona-js",
+  "version": "1.0.0",
+  "description": "Creating Amazon fullstack project using NodeJS+Express+MongoDB and Vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimgordenya/amazona-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadimgordenya/amazona-js/issues"
+  },
+  "homepage": "https://github.com/vadimgordenya/amazona-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
