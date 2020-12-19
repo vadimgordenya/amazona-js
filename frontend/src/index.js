@@ -1,6 +1,6 @@
-import HomeScreen from './srceens/HomeScreen.js';
-import ProductScreen from './srceens/ProductScreen.js';
-import Error404Screen from './srceens/Error404Screen.js';
+import HomeScreen from './screens/HomeScreen.js';
+import ProductScreen from './screens/ProductScreen.js';
+import Error404Screen from './screens/Error404Screen.js';
 
 import { parseRequestUrl } from "./utils.js";
 
